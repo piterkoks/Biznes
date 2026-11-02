@@ -40,7 +40,9 @@ Polskie małe firmy zapłacą dużo mniej, raczej kilkaset złotych za krótki f
 
 ## 5 sposobów monetyzacji, od najlepszego
 
-### 1. Automatyczne filmy z danych dla biur nieruchomości ⭐ najlepszy
+### 1. Automatyczne filmy z danych dla biur nieruchomości
+
+> Aktualizacja: po szerszym researchu lepszą niszą okazały się spersonalizowane filmy dla uczestników biegów. Szczegóły w pliku NISZE-MOTION-DESIGN.md.
 
 To nisza, w której kod wygrywa z grafikiem. Biuro wrzuca ogłoszenie, a Twój system z szablonu Remotion robi z niego 20-sekundowego reela: zdjęcia, cena, metraż, lokalizacja, logo biura.
 
