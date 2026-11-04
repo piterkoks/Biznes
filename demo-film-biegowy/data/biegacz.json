@@ -1,0 +1,25 @@
+{
+  "imie": "Piotr",
+  "nazwisko": "Kowalski",
+  "numer": 247,
+  "bieg": "Bieg Demo Częstochowa",
+  "dystans": "10 km",
+  "data": "12 kwietnia 2027",
+  "czas": "00:47:32",
+  "tempo": "4:45 min/km",
+  "miejsce": 87,
+  "uczestnicy": 612,
+  "kategoria": "M20",
+  "miejsceKategoria": 12,
+  "uczestnicyKategoria": 58,
+  "miedzyczasy": [
+    { "punkt": "2,5 km", "czas": "11:41" },
+    { "punkt": "5 km", "czas": "23:58" },
+    { "punkt": "7,5 km", "czas": "35:50" },
+    { "punkt": "10 km", "czas": "47:32" }
+  ],
+  "sponsor": "TWÓJ SPONSOR",
+  "hashtag": "#BiegDemo2027",
+  "kolorAkcent": "#FF5A1F",
+  "kolorTlo": "#0B0D17"
+}
