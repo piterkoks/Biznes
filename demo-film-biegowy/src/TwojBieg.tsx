@@ -26,6 +26,7 @@ export type DaneBiegacza = {
   miedzyczasy: { punkt: string; czas: string }[];
   sponsor: string;
   hashtag: string;
+  napisMedal?: string;
   kolorAkcent: string;
   kolorTlo: string;
 };
@@ -195,9 +196,9 @@ const Licznik: React.FC<{ etykieta: string; wartosc: number; z: number; opoznien
     <div style={{ opacity: w, transform: `scale(${0.8 + w * 0.2})`, textAlign: "center" }}>
       <div style={{ fontSize: 44, fontWeight: 700, letterSpacing: 6, color: "rgba(255,255,255,0.7)" }}>{etykieta}</div>
       <div style={{ fontSize: 230, fontWeight: 900, lineHeight: 1, fontVariantNumeric: "tabular-nums" }}>
-        {pokaz}<span style={{ fontSize: 80, color: akcent }}>.</span>
+        {pokaz.toLocaleString("pl-PL")}<span style={{ fontSize: 80, color: akcent }}>.</span>
       </div>
-      <div style={{ fontSize: 44, fontWeight: 500, color: "rgba(255,255,255,0.7)" }}>na {z}</div>
+      <div style={{ fontSize: 44, fontWeight: 500, color: "rgba(255,255,255,0.7)" }}>na {z.toLocaleString("pl-PL")}</div>
     </div>
   );
 };
@@ -226,11 +227,11 @@ const Final: React.FC<{ d: DaneBiegacza; dl: number }> = ({ d, dl }) => {
         <div style={{ position: "absolute", right: 120, bottom: 0, width: 80, height: 230, background: "#3B5BFF", transform: "rotate(18deg)", transformOrigin: "bottom center", borderRadius: 6 }} />
       </div>
       <div style={{ width: 380, height: 380, borderRadius: "50%", background: "radial-gradient(circle at 35% 30%, #FFE7A3, #E0A526 55%, #9C6A0E)", boxShadow: "0 30px 80px rgba(0,0,0,0.5), inset 0 0 0 14px rgba(255,255,255,0.25)", display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", transform: `scale(${medal}) rotate(${obrot}deg)`, color: "#5A3A00" }}>
-        <div style={{ fontSize: 110, fontWeight: 900, lineHeight: 1 }}>{d.dystans.replace(" ", " ")}</div>
+        <div style={{ fontSize: (d.napisMedal ?? d.dystans).length <= 6 ? 110 : Math.round(460 / (d.napisMedal ?? d.dystans).length), fontWeight: 900, lineHeight: 1, letterSpacing: -1 }}>{(d.napisMedal ?? d.dystans).replace(" ", "\u00A0")}</div>
         <div style={{ fontSize: 34, fontWeight: 800, letterSpacing: 4 }}>FINISHER</div>
       </div>
       <div style={{ marginTop: 80, fontSize: 120, fontWeight: 900, opacity: tekst, transform: `translateY(${(1 - tekst) * 60}px)` }}>UKOŃCZONE!</div>
-      <div style={{ marginTop: 10, fontSize: 52, fontWeight: 600, opacity: tekst }}>{d.imie} · {d.czas.replace(/^00:/, "")}</div>
+      <div style={{ marginTop: 10, fontSize: 52, fontWeight: 600, opacity: tekst }}>{d.imie} · {d.czas.replace(/^0+:?/, "")}</div>
       <div style={{ marginTop: 40, fontSize: 46, fontWeight: 800, color: d.kolorAkcent, opacity: tekst }}>{d.hashtag}</div>
     </AbsoluteFill>
   );
