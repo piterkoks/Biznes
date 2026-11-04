@@ -88,6 +88,66 @@ Pomysł: organizator dodaje film jako płatną opcję w formularzu zapisów, tak
 - **RODO:** organizator jest administratorem danych, a Ty przetwarzasz je w jego imieniu. Potrzebna jest **umowa powierzenia przetwarzania danych**, a organizator powinien wspomnieć o filmach w regulaminie zapisów. Bierz tylko potrzebne dane i usuwaj je np. 90 dni po imprezie.
 - **Muzyka w filmach:** tylko z licencją komercyjną, inaczej Instagram i Facebook mogą blokować udostępnienia.
 
+### Proponowany cennik
+
+**Punkty odniesienia**
+
+| Co | Cena |
+|---|---|
+| Klip z mety na Maratonie Warszawskim, prawdziwe nagranie z kamery | 21 zł |
+| Grawer medalu na Ironman Gdynia, dodatek przy zapisach | 9,50 € (ok. 40 zł) |
+| Opłata startowa na bieg 10 km, przykłady z 2026 | ok. 50–100 zł |
+| Opłata startowa na półmaraton, przykłady z 2026 | ok. 70–210 zł |
+
+**Dlaczego taniej niż 21 zł:** w Warszawie biegacz kupuje nagranie, na którym widać jego samego na mecie. Twój podstawowy film to animacja z danych, bez jego twarzy. To mniej osobiste, więc wersja podstawowa musi być tańsza. Do tego mniejsze biegi mają niższe wpisowe, a dodatek powinien kosztować najwyżej ok. 15–20% wpisowego.
+
+**Ceny dla biegacza**
+
+| Wersja | Przy zapisach | Po biegu | Co zawiera |
+|---|---|---|---|
+| Podstawowa | 12 zł | 15 zł | animacja: imię, czas, miejsce, międzyczasy, trasa, logo |
+| Premium | 19 zł | 24 zł | to samo + zdjęcia z trasy od fotografa biegu, wersja pionowa i pozioma |
+
+Niższa cena przy zapisach nagradza tych, którzy kupują w ciemno. Wyższa po biegu nadal jest poniżej 21 zł za podstawową wersję, a premium ze zdjęciami jest blisko warszawskiego klipu.
+
+**Twoja cena hurtowa dla organizatora**
+
+| Pozycja | Cena |
+|---|---|
+| Film podstawowy | 8 zł/szt. |
+| Film premium | 12 zł/szt. |
+| Przygotowanie imprezy, bieg do 500 osób | 300 zł |
+| Przygotowanie imprezy, 500–2 000 osób | 500 zł |
+| Przygotowanie imprezy, powyżej 2 000 osób | 800 zł |
+| Zwolnienie z opłaty za przygotowanie | przy gwarancji min. 100 filmów |
+
+Organizator zarabia różnicę, czyli 4–12 zł na filmie, bez żadnej pracy. To Twój główny argument sprzedażowy.
+
+**Opcja „film dla każdego uczestnika”**, przygotowanie w cenie:
+
+| Wielkość biegu | Cena za uczestnika |
+|---|---|
+| do 500 osób | 4 zł, min. 1 000 zł |
+| 500–2 000 osób | 3 zł |
+| powyżej 2 000 osób | 2 zł |
+
+Organizator może to w całości sprzedać sponsorowi jako „logo sponsora w filmie każdego biegacza”.
+
+**Przykład: bieg na 1 000 osób, model za sztukę** (zakładam 12% kupujących przy średniej cenie 15 zł)
+
+| | Kwota |
+|---|---|
+| 120 filmów × 8 zł | 960 zł |
+| Przygotowanie | 500 zł |
+| **Twój przychód** | **1 460 zł** |
+| Zarobek organizatora: 120 × 7 zł | 840 zł |
+
+**Pierwsze 2–3 imprezy:** bez opłaty za przygotowanie, tylko cena za sztukę. W zamian bierzesz referencje i statystyki: ile osób kupiło, ile pobrało, ile udostępniło.
+
+**Testuj ceny.** Na różnych imprezach sprawdź np. 12 i 15 zł przy zapisach. Po 5–6 biegach będziesz wiedzieć, która cena daje najwięcej pieniędzy, a nie tylko najwięcej sprzedanych sztuk.
+
+**VAT:** dopóki korzystasz ze zwolnienia z VAT, nie doliczasz go do ceny. To przewaga nad większymi firmami.
+
 ### Przykładowy sezon (scenariusz, nie obietnica)
 
 | | Wariant ostrożny | Wariant dobry |
@@ -137,6 +197,9 @@ Rodzice płacą akademiom co miesiąc, a akademie konkurują o dzieci, więc **m
 Listopad–grudzień to sezon na filmy w stylu Spotify Wrapped. Duże firmy kupują je od korporacyjnych dostawców. Małe nie mają oferty. Możesz w 2–3 tygodnie zrobić pierwszy projekt, np. „Twój rok w klubie” dla klubu biegowego, siłowni, szkoły tańca czy akademii piłkarskiej. To szybkie pieniądze, gotowe portfolio i test silnika przed sezonem biegowym.
 
 ## Źródła
+
+- Grawer medalu jako dodatek przy zapisach, Ironman Gdynia: https://ironmangdynia.pl/?p=641
+- Opłaty startowe 2026: https://running.life/pl/wydarzenie/ogolnopolski-bieg-uliczny-kostrzynska-dziesiatka-10-km oraz https://gdyniapolmaraton.pl/wp-content/uploads/2025/09/2026-Regulamin-Gdynia-Polmaraton.pdf
 
 - iRewind, 33 000 filmów na maratonie w Nowym Jorku: https://startupticker.ch/index.php/en/news/irewind-supplies-the-new-york-city-marathon-with-33-000-finisher-videos
 - iRewind, model biznesowy i sponsorzy: https://irewind.com/irewind-plus/ oraz https://www.racedirectorshq.com/listen/irewind-personalized-race-videos-515
