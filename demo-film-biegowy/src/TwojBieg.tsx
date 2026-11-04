@@ -12,7 +12,7 @@ import {
 export type DaneBiegacza = {
   imie: string;
   nazwisko: string;
-  numer: number;
+  numer: number | string;
   bieg: string;
   dystans: string;
   data: string;
@@ -53,6 +53,13 @@ const useScena = (dlugosc: number) => {
   return { frame, alpha: Math.min(wejscie, wyjscie), przesuniecie: (1 - wejscie) * 60 + (1 - wyjscie) * -60 };
 };
 
+const rgba = (hex: string, a: number) => {
+  const h = hex.replace("#", "");
+  const n = parseInt(h.length === 3 ? h.split("").map((c) => c + c).join("") : h, 16);
+  return `rgba(${(n >> 16) & 255}, ${(n >> 8) & 255}, ${n & 255}, ${a})`;
+};
+
+// Tło liczone gradientami: wygląda jak rozmyte plamy, a renderuje się wielokrotnie szybciej niż filter: blur
 const Tlo: React.FC<{ akcent: string; tlo: string }> = ({ akcent, tlo }) => {
   const frame = useCurrentFrame();
   const x1 = 300 + Math.sin(frame / 40) * 180;
@@ -60,10 +67,13 @@ const Tlo: React.FC<{ akcent: string; tlo: string }> = ({ akcent, tlo }) => {
   const x2 = 800 + Math.cos(frame / 47) * 160;
   const y2 = 1450 + Math.sin(frame / 38) * 200;
   return (
-    <AbsoluteFill style={{ backgroundColor: tlo, overflow: "hidden" }}>
-      <div style={{ position: "absolute", left: x1 - 450, top: y1 - 450, width: 900, height: 900, borderRadius: "50%", background: akcent, opacity: 0.28, filter: "blur(160px)" }} />
-      <div style={{ position: "absolute", left: x2 - 400, top: y2 - 400, width: 800, height: 800, borderRadius: "50%", background: "#3B5BFF", opacity: 0.22, filter: "blur(160px)" }} />
-      {/* delikatne linie jak bieżnia */}
+    <AbsoluteFill
+      style={{
+        backgroundColor: tlo,
+        backgroundImage: `radial-gradient(circle 650px at ${x1}px ${y1}px, ${rgba(akcent, 0.32)}, ${rgba(akcent, 0)}), radial-gradient(circle 600px at ${x2}px ${y2}px, rgba(59, 91, 255, 0.26), rgba(59, 91, 255, 0))`,
+        overflow: "hidden",
+      }}
+    >
       {[0, 1, 2, 3, 4, 5].map((i) => (
         <div key={i} style={{ position: "absolute", left: -200, right: -200, top: 1700 + i * 34 - ((frame * 2) % 34), height: 2, background: "rgba(255,255,255,0.05)", transform: "rotate(-8deg)" }} />
       ))}
@@ -141,7 +151,7 @@ const Czas: React.FC<{ d: DaneBiegacza; dl: number }> = ({ d, dl }) => {
   return (
     <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", opacity: alpha, transform: `translateY(${przesuniecie}px)`, fontFamily: FONT, color: "white" }}>
       <div style={{ fontSize: 50, fontWeight: 700, letterSpacing: 8, color: "rgba(255,255,255,0.7)" }}>TWÓJ CZAS</div>
-      <div style={{ fontSize: zGodzinami ? 200 : 260, fontWeight: 900, fontVariantNumeric: "tabular-nums", letterSpacing: -6, transform: `scale(${1 + interpolate(pulse, [0, 1], [0, 0.05]) * (frame < 95 ? 1 : 0)})`, textShadow: `0 0 60px ${d.kolorAkcent}88` }}>
+      <div style={{ fontSize: zGodzinami ? 200 : 260, fontWeight: 900, fontVariantNumeric: "tabular-nums", letterSpacing: -6, transform: `scale(${1 + interpolate(pulse, [0, 1], [0, 0.05]) * (frame < 95 ? 1 : 0)})` }}>
         {formatCzas(Math.round(sekundy * postep), zGodzinami)}
       </div>
       <div style={{ marginTop: 20, padding: "18px 40px", borderRadius: 20, background: d.kolorAkcent, fontSize: 46, fontWeight: 800, opacity: interpolate(frame, [70, 85], [0, 1], clamp), transform: `translateY(${interpolate(frame, [70, 85], [30, 0], clamp)}px)` }}>
@@ -163,7 +173,8 @@ const Miedzyczasy: React.FC<{ d: DaneBiegacza; dl: number }> = ({ d, dl }) => {
       <div style={{ fontSize: 50, fontWeight: 700, letterSpacing: 8, color: "rgba(255,255,255,0.7)" }}>TWOJA TRASA</div>
       <svg width={920} height={760} viewBox="80 40 920 720" style={{ marginTop: 20 }}>
         <path d={TRASA} fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={22} strokeLinecap="round" />
-        <path d={TRASA} fill="none" stroke={d.kolorAkcent} strokeWidth={22} strokeLinecap="round" strokeDasharray={DL} strokeDashoffset={DL * (1 - rysowanie)} style={{ filter: `drop-shadow(0 0 18px ${d.kolorAkcent})` }} />
+        <path d={TRASA} fill="none" stroke={rgba(d.kolorAkcent, 0.3)} strokeWidth={48} strokeLinecap="round" strokeDasharray={DL} strokeDashoffset={DL * (1 - rysowanie)} />
+        <path d={TRASA} fill="none" stroke={d.kolorAkcent} strokeWidth={22} strokeLinecap="round" strokeDasharray={DL} strokeDashoffset={DL * (1 - rysowanie)} />
         <circle cx={140} cy={520} r={26} fill="white" />
         <text x={140} y={600} fill="white" fontSize={34} fontWeight={700} textAnchor="middle" fontFamily={FONT}>START</text>
         <circle cx={940} cy={700} r={30} fill={d.kolorAkcent} opacity={rysowanie > 0.97 ? 1 : 0} />
@@ -226,7 +237,7 @@ const Final: React.FC<{ d: DaneBiegacza; dl: number }> = ({ d, dl }) => {
         <div style={{ position: "absolute", left: 120, bottom: 0, width: 80, height: 230, background: d.kolorAkcent, transform: "rotate(-18deg)", transformOrigin: "bottom center", borderRadius: 6 }} />
         <div style={{ position: "absolute", right: 120, bottom: 0, width: 80, height: 230, background: "#3B5BFF", transform: "rotate(18deg)", transformOrigin: "bottom center", borderRadius: 6 }} />
       </div>
-      <div style={{ width: 380, height: 380, borderRadius: "50%", background: "radial-gradient(circle at 35% 30%, #FFE7A3, #E0A526 55%, #9C6A0E)", boxShadow: "0 30px 80px rgba(0,0,0,0.5), inset 0 0 0 14px rgba(255,255,255,0.25)", display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", transform: `scale(${medal}) rotate(${obrot}deg)`, color: "#5A3A00" }}>
+      <div style={{ width: 380, height: 380, borderRadius: "50%", background: "radial-gradient(circle at 35% 30%, #FFE7A3, #E0A526 55%, #9C6A0E)", boxShadow: "inset 0 0 0 14px rgba(255,255,255,0.25)", display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", transform: `scale(${medal}) rotate(${obrot}deg)`, color: "#5A3A00" }}>
         <div style={{ fontSize: (d.napisMedal ?? d.dystans).length <= 6 ? 110 : Math.round(460 / (d.napisMedal ?? d.dystans).length), fontWeight: 900, lineHeight: 1, letterSpacing: -1 }}>{(d.napisMedal ?? d.dystans).replace(" ", "\u00A0")}</div>
         <div style={{ fontSize: 34, fontWeight: 800, letterSpacing: 4 }}>FINISHER</div>
       </div>
