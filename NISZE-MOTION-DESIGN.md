@@ -37,7 +37,7 @@ Biegacz wrzuca film na Instagram/Facebook/Stravę, oznacza bieg i sponsora. Orga
 
 - **Model jest sprawdzony za granicą i na dużych biegach.** iRewind zrobił 33 000 filmów dla maratonu w Nowym Jorku i ponad 100 000 dla Paryża. Pic2Go zrobił ponad 2 700 filmów na Maratonie Warszawskim.
 - **Ludzie już za to płacą w Polsce.** Na Maratonie Warszawskim FotoMaraton.pl sprzedaje klipy z mety po **21 zł za sztukę**.
-- **Małe i średnie biegi są nieobsłużone.** Rozwiązania kamerowe opłacają się dopiero przy tysiącach uczestników. Twoja wersja z samych danych kosztuje Cię prawie zero na film, więc opłaca się nawet na biegu na 200 osób. Nie znalazłem w Polsce nikogo, kto robi to z samych wyników.
+- **Małe i średnie biegi są słabo obsłużone.** Rozwiązania kamerowe wymagają sprzętu i ludzi na miejscu. Twoja wersja z samych danych kosztuje Cię prawie zero na film, więc opłaca się nawet na biegu na 200 osób. Spersonalizowane filmy w Polsce już istnieją, ale wszystkie znalezione opierają się na kamerach lub zdjęciach. Szczegóły w sekcji „Konkurencja”.
 - **Rynek jest duży.** W 2019 r. w Polsce odbyło się **3 916 imprez biegowych**. Do tego triathlony, biegi przeszkodowe, zawody MTB, pływanie, nordic walking.
 - **To jest Twój pomysł z pośrednikiem.** Firmy pomiaru czasu obsługują dziesiątki biegów w sezonie. Jedna umowa z taką firmą, która dosprzedaje Twoje filmy jako dodatek, daje Ci dziesiątki imprez.
 - **Idealny moment.** Teraz jest po sezonie. Organizatorzy planują edycje 2027 zimą, a Ty masz 3–4 miesiące na zbudowanie produktu.
@@ -197,6 +197,49 @@ Koszty: renderowanie w chmurze to grosze na film, hosting stron z filmami kilkad
 - **Dostęp do danych:** potrzebujesz pliku z wynikami od organizatora lub firmy pomiaru czasu, tak samo jak do zgód RODO. Dlatego partnerstwo z firmą pomiaru czasu jest kluczowe.
 - **Kopiowanie:** model łatwo podpatrzeć. Twoja ochrona to szybkość, relacje z organizatorami i jakość wyglądu.
 
+## Konkurencja: czy to już istnieje? (sprawdzone 4.11.2026)
+
+**Krótko:** spersonalizowane filmy dla biegaczy **już istnieją, także w Polsce**, ale wszystkie znalezione opierają się na **kamerach albo zdjęciach**. Nie znalazłem w Polsce oferty **oficjalnego, animowanego filmu z samych wyników**, taniej na tyle, żeby opłacała się małym biegom. To nie jest wynalazek na skalę świata. To luka na polskim rynku i inny model biznesowy.
+
+**Pewności 100% nie ma.** Wyszukiwarka nie widzi wszystkiego, kilka stron konkurentów było zablokowanych w ustawieniach sieci tej sesji, a mała lokalna firma może to robić bez strony w internecie. Ostateczne potwierdzenie dadzą rozmowy z organizatorami i firmami pomiaru czasu.
+
+### W Polsce
+
+| Firma | Co robi | Na czym oparta | Różnica wobec Ciebie |
+|---|---|---|---|
+| FotoMaraton.pl | spersonalizowany klip z finiszu, sprzedawany biegaczom | kamera na mecie | wymaga sprzętu i ekipy na miejscu |
+| Maratomania | film 4K z wbiegnięcia na metę | kamera; według FAQ tylko seria Ironman | wąska oferta |
+| Funclip.pl | spersonalizowany film z imprezy po numerze startowym, w kilkanaście godzin | ujęcia z kamer, na których pojawia się biegacz | **najbliższy polski konkurent**, ale kamerowy |
+| Pic2Go Polska | darmowe dla biegacza zdjęcia i filmy opłacane przez sponsora; w 2021 na Maratonie Warszawskim klipy ze zdjęć z animacją mapy trasy | zdjęcia i kamery | duże imprezy, model sponsorski taki jak Twój |
+| Firmy pomiaru czasu | dyplom z wynikiem, zwykle w PDF | dane | statyczny, nie film |
+
+### Za granicą
+
+| Firma | Co robi | Na czym oparta |
+|---|---|---|
+| iRewind (Szwajcaria) | filmy z mety dla maratonów w Nowym Jorku, Paryżu, Frankfurcie | kamery |
+| FinishFrame, Fast Finish, RUNNUR | klipy z mety, slow motion, kamera AI | kamery |
+| 9Pic Flow | filmy z oficjalnych zdjęć + danych z pomiaru czasu | **zdjęcia + dane**, najbliżej Twojego pomysłu |
+| Bhaagoindia (Indie) | 30–60-sekundowe filmy z animowanymi statystykami | **zdjęcia + dane z pomiaru czasu** |
+| Race Roster | segmentacja nagrania z mety na biegaczy, dyplomy | nagranie wideo, ręcznie |
+
+### Aplikacje, w których biegacz robi film sam
+
+| Aplikacja | Co robi |
+|---|---|
+| Relive | animowany film 3D trasy z GPS; ok. 22 mln użytkowników; płatna wersja ok. 6,99 €/mies. |
+| Slid, Run Visuals, RunCut | filmy i nakładki ze statystykami ze Stravy i Garmina |
+
+To realna alternatywa dla biegacza. Takie filmy **nie są jednak oficjalne**: nie mają miejsca w klasyfikacji i kategorii, logo biegu ani sponsora, a biegacz musi je zrobić sam.
+
+### Co z tego wynika
+
+- **Dobra wiadomość:** popyt jest potwierdzony. Biegacze płacą za klipy, a sponsorzy płacą, żeby biegacze dostali je za darmo.
+- **Twoja przewaga:** bez kamer i ludzi na miejscu, więc taniej i dla każdej wielkości biegu. Oficjalne dane z miejscem i kategorią, których Relive nie ma. Barwy biegu i logo sponsora. Szybka dostawa.
+- **Zagrożenie:** Funclip, FotoMaraton czy Pic2Go mogą łatwo dodać wersję animowaną, a 9Pic może wejść do Polski.
+- **Strategia:** nie walcz z firmami kamerowymi, tylko **współpracuj z nimi**. Zaproponuj im animowaną warstwę jako dodatek pod ich marką, a im dużą część klientów oddaj. To Twój model pośrednika. Wersja premium może łączyć Twoją animację z ich nagraniem lub zdjęciami.
+- **Do sprawdzenia w rozmowach:** zapytaj 5–10 organizatorów i 2–3 firmy pomiaru czasu, czy ktoś im już proponował animowane filmy z wyników i za ile.
+
 ## Druga opcja: akademie piłkarskie
 
 Rodzice płacą akademiom co miesiąc, a akademie konkurują o dzieci, więc **mają budżet na marketing**, w przeciwieństwie do amatorskich klubów seniorskich.
@@ -212,6 +255,18 @@ Rodzice płacą akademiom co miesiąc, a akademie konkurują o dzieci, więc **m
 Listopad–grudzień to sezon na filmy w stylu Spotify Wrapped. Duże firmy kupują je od korporacyjnych dostawców. Małe nie mają oferty. Możesz w 2–3 tygodnie zrobić pierwszy projekt, np. „Twój rok w klubie” dla klubu biegowego, siłowni, szkoły tańca czy akademii piłkarskiej. To szybkie pieniądze, gotowe portfolio i test silnika przed sezonem biegowym.
 
 ## Źródła
+
+- Funclip: https://funclip.pl/
+- FotoMaraton, oferta z filmem: https://www.fotomaraton.pl/offer.php?Lang=PL
+- Maratomania, FAQ: https://maratomania.pl/faq-pl.html
+- Pic2Go na PKO Biegu Charytatywnym: https://bankomania.pkobp.pl/sport/pko-bieg-charytatywny/bezplatne-zdjecia-z-pko-biegu-charytatywnego-dla-kazdego-uczestnika/
+- Pic2Go na Maratonie Warszawskim 2025: https://maratonwarszawski.com/?p=10582
+- Pic2Go, model biznesowy: https://www.racedirectorshq.com/pic2go-releases-digital-medals-personal-finisher-platform-runpage/
+- Bhaagoindia: https://bhaagoindia.com/custom-video-generation/
+- FinishFrame: https://finishframe.com/ oraz Fast Finish: https://www.fastfinish.co.nz/ oraz RUNNUR: https://runnur.io/
+- Race Roster, filmy w wynikach: https://help.raceroster.com/en-us/knowledge-base/how-to-set-up-video-results
+- Relive, ceny i użytkownicy: https://apppricinglab.com/app/google_play/cc.relive.reliveapp
+- Slid: https://apps.apple.com/app/id1484705784 oraz RunCut: https://runcut.app/pl/
 
 - Grawer medalu jako dodatek przy zapisach, Ironman Gdynia: https://ironmangdynia.pl/?p=641
 - Opłaty startowe 2026: https://running.life/pl/wydarzenie/ogolnopolski-bieg-uliczny-kostrzynska-dziesiatka-10-km oraz https://gdyniapolmaraton.pl/wp-content/uploads/2025/09/2026-Regulamin-Gdynia-Polmaraton.pdf
