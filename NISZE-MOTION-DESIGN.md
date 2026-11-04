@@ -53,6 +53,41 @@ Biegacz wrzuca film na Instagram/Facebook/Stravę, oznacza bieg i sponsora. Orga
 
 To moje propozycje cen, nie stawki rynkowe. Sprawdź je na pierwszych rozmowach.
 
+### Model sprzedaży: płatny dodatek przy zapisach, cena za sztukę
+
+Pomysł: organizator dodaje film jako płatną opcję w formularzu zapisów, tak jak koszulkę czy grawer na medalu. Po biegu wysyła Ci dane tylko tych osób, które kupiły, a Ty generujesz filmy i rozliczasz się za sztukę.
+
+**Jak to działa krok po kroku**
+
+1. Ustalasz z organizatorem **cenę hurtową** dla siebie, np. 8–12 zł za film. Organizator sprzedaje biegaczom za 15–19 zł i różnicę zostawia sobie. Dzięki temu ma powód, żeby to promować.
+2. Organizator dodaje opcję w zapisach. Przy opcji musi być **przykładowy film**, bo nikt nie kupi czegoś, czego nie widział.
+3. Przed biegiem przygotowujesz szablon: logo, kolory, trasa, sponsorzy. To 1–3 h pracy.
+4. Po biegu organizator lub firma pomiaru czasu wysyła Ci plik z wynikami kupujących: imię, numer startowy, czas, miejsce, kategoria, międzyczasy. **Bez e-maili i telefonów, jeśli nie są potrzebne.**
+5. W ciągu 24–48 h generujesz filmy i wrzucasz je na stronę do pobrania po numerze startowym i kodzie. Linki wysyła organizator.
+6. Wystawiasz organizatorowi jedną fakturę lub rachunek: liczba filmów × cena hurtowa + opłata za przygotowanie.
+
+**Dwie poprawki, bez których ten model słabo zarabia**
+
+- **Opłata za przygotowanie imprezy, np. 300–500 zł**, albo minimalna liczba filmów, np. 50. Twoja praca nad szablonem kosztuje tyle samo przy 10 i przy 500 kupujących. Bez tej opłaty mały bieg z 12 kupującymi to ok. 120 zł za kilka godzin pracy.
+- **Sprzedaż także po biegu, nie tylko przy zapisach.** Przy zapisach biegacz kupuje coś, czego nie zna, na długo przed startem. Największe emocje są tuż po mecie. W mailu z wynikami powinien być przycisk „Zobacz swój film” z krótkim podglądem ze znakiem wodnym i opcją zakupu. Zakładam, że to da wyraźnie więcej kupujących niż sama opcja przy zapisach, ale to trzeba sprawdzić na pierwszych imprezach.
+
+**Porównanie modeli na biegu z 1 000 uczestników (moje założenia, nie dane rynkowe)**
+
+| Model | Wyliczenie | Twój przychód |
+|---|---|---|
+| Dodatek tylko przy zapisach, 8% kupuje | 80 × 10 zł + 400 zł przygotowania | ok. 1 200 zł |
+| Dodatek przy zapisach i po biegu, 15% kupuje | 150 × 10 zł + 400 zł | ok. 1 900 zł |
+| Film dla wszystkich, płaci organizator lub sponsor | 1 000 × 3 zł | ok. 3 000 zł |
+| Hybryda: podstawowy film dla wszystkich od sponsora + wersja premium płatna | 1 000 × 2 zł + 100 × 10 zł | ok. 3 000 zł |
+
+**Wniosek:** model za sztukę jest najłatwiejszy do sprzedania, bo organizator nic nie ryzykuje. Daje jednak mniej pieniędzy i mniej udostępnień, bo film ma tylko część biegaczy. Proponuj organizatorowi dwie opcje: **„dodatek płatny”** z opłatą za przygotowanie, który łatwo zaakceptować na start, oraz **„film dla wszystkich”** za niższą cenę od sztuki, który bardziej się opłaca, gdy organizator zobaczy wyniki. Najlepiej na dłuższą metę działa hybryda: sponsor płaci za podstawowy film dla każdego, a biegacze dopłacają za premium, np. ze zdjęciami z trasy, muzyką czy wersją poziomą i pionową.
+
+**Formalności w tym modelu**
+
+- **Sprzedajesz firmie, nie biegaczom.** To prostsze: nie potrzebujesz własnego sklepu, regulaminu dla konsumentów ani bramki płatności. Na start wystarczy działalność nierejestrowana, dopóki mieścisz się w limicie 10 813,50 zł na kwartał.
+- **RODO:** organizator jest administratorem danych, a Ty przetwarzasz je w jego imieniu. Potrzebna jest **umowa powierzenia przetwarzania danych**, a organizator powinien wspomnieć o filmach w regulaminie zapisów. Bierz tylko potrzebne dane i usuwaj je np. 90 dni po imprezie.
+- **Muzyka w filmach:** tylko z licencją komercyjną, inaczej Instagram i Facebook mogą blokować udostępnienia.
+
 ### Przykładowy sezon (scenariusz, nie obietnica)
 
 | | Wariant ostrożny | Wariant dobry |
