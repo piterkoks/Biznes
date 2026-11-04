@@ -123,6 +123,21 @@ Niższa cena przy zapisach nagradza tych, którzy kupują w ciemno. Wyższa po b
 
 Organizator zarabia różnicę, czyli 4–12 zł na filmie, bez żadnej pracy. To Twój główny argument sprzedażowy.
 
+**Ceny zależne od wielkości biegu**
+
+Cenę lepiej wiązać z **wpisowym** niż z wielkością miasta. Wpisowe pokazuje, ile biegacze tej imprezy są gotowi wydać. Mała miejscowość może mieć drogi, prestiżowy bieg górski, a duże miasto tani bieg osiedlowy.
+
+| Poziom | Przykład | Cena przy zapisach | Cena po biegu | Twoja cena hurtowa | Zarobek organizatora |
+|---|---|---|---|---|---|
+| Lokalny | wpisowe do ok. 70 zł, mniejsze miasta | 12 zł | 14 zł | 7 zł | 5–7 zł |
+| Duży | wpisowe powyżej ok. 70 zł, duże miasta, półmaratony, maratony | 15 zł | 19 zł | 9 zł | 6–10 zł |
+| Premium ze zdjęciami | każdy poziom | 19 zł | 24 zł | 12 zł | 7–12 zł |
+
+Zasady:
+- **Organizator musi zarabiać co najmniej ok. 5 zł na filmie.** Inaczej nie będzie go promował. Dlatego przy niższej cenie Twoja stawka też jest niższa.
+- **Jeden cykl biegów to jedna cena.** Gdy ten sam organizator robi biegi w kilku miastach, nie różnicuj cen w ramach cyklu.
+- **Różne ceny na różnych imprezach są normalne.** Wpisowe też się różni, więc nikt nie uzna tego za nieuczciwe.
+
 **Opcja „film dla każdego uczestnika”**, przygotowanie w cenie:
 
 | Wielkość biegu | Cena za uczestnika |
