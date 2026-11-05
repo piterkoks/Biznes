@@ -240,6 +240,55 @@ To realna alternatywa dla biegacza. Takie filmy **nie są jednak oficjalne**: ni
 - **Strategia:** nie walcz z firmami kamerowymi, tylko **współpracuj z nimi**. Zaproponuj im animowaną warstwę jako dodatek pod ich marką, a im dużą część klientów oddaj. To Twój model pośrednika. Wersja premium może łączyć Twoją animację z ich nagraniem lub zdjęciami.
 - **Do sprawdzenia w rozmowach:** zapytaj 5–10 organizatorów i 2–3 firmy pomiaru czasu, czy ktoś im już proponował animowane filmy z wyników i za ile.
 
+## Rynek: ile jest biegów, jak duże, za ile i czy mają zdjęcia (sprawdzone 5.11.2026)
+
+**Krótko:** zdjęcia rzeczywiście są już na większości biegów, ale to **nie zabija pomysłu**, bo zdjęcia i film to dwa różne produkty, które na dużych biegach istnieją obok siebie. Prawdziwy problem jest inny: **biegów bez żadnej obsługi foto jest dużo, ale są małe i biedne**. To zmienia grupę docelową i cennik.
+
+### Liczby
+
+| Co | Dane | Źródło i pewność |
+|---|---|---|
+| Imprez biegowych w Polsce rocznie | ok. 3 000–4 000 (3 942 w 2015, 3 916 w 2019, „ponad 3 000” obecnie) | kilka źródeł, brak aktualnego oficjalnego zestawienia |
+| 10 największych biegów 10 km w 2025 | ponad 110 tys. finiszerów łącznie | biegowe.pl / sport.co.pl |
+| Maraton Warszawski 2025 | 9 544 finiszerów | biegowe.pl |
+| Półmaratony 2026 | frekwencja +39% r/r, Półmaraton Warszawski 22 494 | biegowe.pl |
+| Mały lokalny bieg, przykłady 2026 | limity 150–200 osób | regulaminy: Krasnopol, Ełk, Pobierowo |
+| Wpisowe na małym biegu | ok. 40–90 zł, w dniu startu do 130 zł | te same regulaminy |
+| Wpisowe na dużym biegu 2025 | 10 km ok. 99–129 zł, półmaraton 170–300 zł, maraton 190–400 zł | bieganie.pl |
+
+**Nie znalazłem danych o rozkładzie wielkości biegów**, czyli ile imprez ma ponad 500 czy 1 000 uczestników. Z dostępnych danych wynika, że kilkadziesiąt do ok. 100 dużych imprez skupia ogromną część biegaczy, a tysiące pozostałych to biegi lokalne na 100–500 osób. To mój wniosek, nie policzona statystyka.
+
+### Zdjęcia: kto je robi i gdzie
+
+| Model | Gdzie | Cena dla biegacza |
+|---|---|---|
+| Profesjonalne serwisy: FotoMaraton, Maratomania | głównie duże imprezy; Maratomania ok. 450 imprez w 13 lat, czyli ok. 35 rocznie | płatne pakiety |
+| Pic2Go, opłacane przez sponsora | duże imprezy, np. Maraton Warszawski, PKO Bieg Charytatywny | za darmo, czasem z filmem |
+| **Platformy AI: RunPixie, ZebraSnap** | **coraz więcej średnich i małych biegów**; zdjęcia może sprzedawać nawet fotograf z telefonem, wyszukiwanie po numerze lub selfie; ZebraSnap ma 9 734 nadchodzące wydarzenia z 63 krajów | RunPixie 39–49,99 zł za pakiet |
+| Wolontariusze, lokalne media, organizator | małe biegi | za darmo, album na Facebooku |
+
+Ile osób kupuje zdjęcia: najczęściej podawane ok. **5%** (Brightroom), w anegdotach do ok. 30%. Brak twardych danych dla Polski.
+
+### Co z tego wynika dla pomysłu
+
+1. **Zdjęcia nie zastępują filmu.** Na Maratonie Warszawskim są darmowe zdjęcia od sponsora i jednocześnie płatne klipy z mety. Na PKO Biegu Charytatywnym uczestnik dostaje zdjęcia i film. Film to inny produkt: krótka historia z wynikiem, miejscem i międzyczasami, gotowa do wrzucenia na Instagram.
+2. **Zdjęcia mogą Ci pomóc.** Wersja premium może brać zdjęcia biegacza z platform takich jak RunPixie czy od fotografa biegu. Te platformy to naturalni partnerzy: Ty dodajesz film, one zdjęcia.
+3. **Biegi „bez kamer” to nie jest dobry główny cel.** To przeważnie imprezy na 100–300 osób z wpisowym 40–90 zł. Przy 5–15% kupujących to 5–45 filmów, czyli kilkadziesiąt do kilkuset złotych z imprezy. Opłata 1 000 zł za film dla wszystkich to tam nawet 5–10% całego przychodu z wpisowego, więc mały organizator jej nie zapłaci.
+4. **Główny cel: średnie biegi i cykle biegów.** Imprezy na 500–3 000 osób mają budżet i sponsorów. Cykle biegów oraz firmy pomiaru czasu dają dziesiątki imprez w jednej umowie.
+5. **Małe biegi tylko jako tani, w pełni automatyczny pakiet** przez firmę pomiaru czasu, bez Twojej pracy przy każdej imprezie. Przykład: 1–2 zł za finiszera, minimum ok. 300 zł, albo opłacone przez lokalnego sponsora, np. sklep sportowy czy gminę.
+
+### Poprawiony cennik dla małych biegów
+
+| Wielkość biegu | Film dla każdego, płaci organizator lub sponsor | Płatny dodatek dla biegacza |
+|---|---|---|
+| do 300 osób | 1–2 zł za finiszera, min. ok. 300 zł | 10–12 zł, Twoja część ok. 6–7 zł, bez opłaty za przygotowanie przy gotowym szablonie |
+| 300–1 000 osób | 2–3 zł, min. ok. 600 zł | 12–15 zł |
+| powyżej 1 000 osób | 2–3 zł | 15–19 zł |
+
+### Jak dokładnie policzyć rynek
+
+Pełną liczbę biegów i ich wielkość da się policzyć z kalendarza maratonypolskie.pl i list wyników firm pomiaru czasu, np. datasport.pl. Te strony są zablokowane w ustawieniach sieci tej sesji. Po ich odblokowaniu można policzyć rozkład wielkości biegów dla całej Polski albo dla jednego województwa.
+
 ## Druga opcja: akademie piłkarskie
 
 Rodzice płacą akademiom co miesiąc, a akademie konkurują o dzieci, więc **mają budżet na marketing**, w przeciwieństwie do amatorskich klubów seniorskich.
@@ -255,6 +304,17 @@ Rodzice płacą akademiom co miesiąc, a akademie konkurują o dzieci, więc **m
 Listopad–grudzień to sezon na filmy w stylu Spotify Wrapped. Duże firmy kupują je od korporacyjnych dostawców. Małe nie mają oferty. Możesz w 2–3 tygodnie zrobić pierwszy projekt, np. „Twój rok w klubie” dla klubu biegowego, siłowni, szkoły tańca czy akademii piłkarskiej. To szybkie pieniądze, gotowe portfolio i test silnika przed sezonem biegowym.
 
 ## Źródła
+
+- Rynek imprez biegowych 2025: https://biegowe.pl/2025/11/jak-wygladal-polski-rynek-imprez-biegowych-w-2025-roku.html oraz https://sport.co.pl/jak-wygladal-polski-rynek-imprez-biegowych-w-2025-roku-35676429.html
+- Półmaratony 2026: https://biegowe.pl/2026/10/polskie-polmaratony-bija-rekordy-frekwencja-w-gore-o-39-procent-analiza.html
+- Ceny startów: https://bieganie.pl/lifestyle/jak-rozwija-sie-rynek-imprez-biegowych-w-polsce-rekordy-frekwencji-drozsze-starty-i-nowe-biegowe-trendy/ oraz https://bieganie.pl/lifestyle/ceny-biegow-w-polsce-jak-zmienialy-sie-ceny-pakietow-startowych-w-latach-2015-2025/
+- Liczba biegów 2010–2015: https://www.researchgate.net/publication/262009113_Rynek_biegowy_w_Polsce
+- Szacunek „ponad 3 000 imprez”: https://www.ebasport.com.pl/za-kulisy-polskiego-biegania-najpopularniejsze-imprezy-biegowe-w-kraju/
+- Małe biegi, regulaminy: https://superczas.pl/userfiles/events/678/regulamin_xi-bieg-wsrod-krasnych-pol_pl.pdf oraz https://competitions.timekeeper.pl/download/1141 oraz https://www.sport-time.com.pl/competitions/view?id=790
+- Maratomania: https://maratomania.pl/
+- RunPixie: https://runpixie.com/photographers/ oraz https://biegpowstaniawarszawskiego.pl/pl/aktualnosci/zdjecia-z-biegu/
+- ZebraSnap: https://zebrasnap.com/pl/kalendarz
+- Odsetek kupujących zdjęcia: https://kamero.ai/resources/sell-marathon-race-photos oraz https://www.letsrun.com/forum/flat_read.php?thread=7135424&page=1
 
 - Funclip: https://funclip.pl/
 - FotoMaraton, oferta z filmem: https://www.fotomaraton.pl/offer.php?Lang=PL
