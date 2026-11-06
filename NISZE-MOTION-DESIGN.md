@@ -289,6 +289,35 @@ Ile osób kupuje zdjęcia: najczęściej podawane ok. **5%** (Brightroom), w ane
 
 Pełną liczbę biegów i ich wielkość da się policzyć z kalendarza maratonypolskie.pl i list wyników firm pomiaru czasu, np. datasport.pl. Te strony są zablokowane w ustawieniach sieci tej sesji. Po ich odblokowaniu można policzyć rozkład wielkości biegów dla całej Polski albo dla jednego województwa.
 
+## Wersja ze zdjęciami biegacza (pomysł do powrotu, 6.11.2026)
+
+**Wniosek z rozmowy:** sama animacja z wynikami raczej słabo się sprzeda. Ludzie płacą przede wszystkim za to, żeby zobaczyć siebie. Klipy z mety i pakiety zdjęć sprzedają się, bo widać na nich biegacza.
+
+### Nowy model
+
+| Wersja | Dla kogo | Kto płaci |
+|---|---|---|
+| Animacja z wynikiem | każdy uczestnik | sponsor albo organizator, jako reklama |
+| Film ze zdjęciami biegacza | chętni | biegacz, ok. 15–25 zł |
+
+Darmowa wersja trafia do wszystkich i krąży w mediach społecznościowych. To reklama wersji płatnej.
+
+### Skąd brać zdjęcia, bez własnych fotografów
+
+1. **Platformy fotograficzne z rozpoznawaniem biegaczy:** RunPixie, ZebraSnap. Mają zdjęcia przypisane do numerów startowych, ZebraSnap ma interfejs dla programistów. Ty pobierasz zdjęcia biegacza do filmu, one dostają część zysku.
+2. **Zdjęcia wgrywane przez biegacza:** na stronie do pobierania biegacz dodaje 2–3 zdjęcia z telefonu. Działa na każdym biegu, bez partnera.
+3. **Fotograf biegu lub organizator:** przekazuje zdjęcia z numerami startowymi.
+
+### Co trzeba dobudować w systemie
+
+- Sceny szablonu ze zdjęciami: zdjęcie z trasy jako tło przy czasie, zdjęcie z mety w finale.
+- Na stronie do pobierania: wgrywanie własnych zdjęć i ponowne wygenerowanie filmu.
+- Integracja z interfejsem platformy zdjęć, gdy będzie partner.
+
+### Test przed budową
+
+Pokaż 20–30 biegaczom dwie wersje filmu, bez zdjęć i ze zdjęciami. Zapytaj, którą by kupili i za ile. Na przykład lokalne grupy biegowe w Częstochowie albo znajomi.
+
 ## Druga opcja: akademie piłkarskie
 
 Rodzice płacą akademiom co miesiąc, a akademie konkurują o dzieci, więc **mają budżet na marketing**, w przeciwieństwie do amatorskich klubów seniorskich.
